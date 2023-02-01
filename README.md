@@ -1,6 +1,6 @@
    Hi there :smirk:
    
-Eu sou o Igor Scott, sou um programador Front-End, atualmente estou aprendendo e criando Projetos com:
+Eu sou  Igor Scott, sou um programador Front-End, atualmente estou aprendendo e criando Projetos com:
 <br>
 <br>
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">

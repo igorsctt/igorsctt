@@ -1,16 +1,47 @@
-   Hi there :smirk:
-   
-Eu sou  Igor Scott, um Programador Front-End, atualmente estou aprendendo e criando Projetos com:
+<h1 align="center">:computer: Olá Mundo!</h1>
 <br>
+<div align="center">
+   <h2>
+   🚀 Desenvolvedor Front-End | Igor Scott |
+   </h2>   
+   <p>
+🙋🏻‍♂️ Minha paixão pela tecnologia é o combustível que impulsiona minha jornada. Atuando como Desenvolvedor Front-End, possuo um conhecimento sólido em HTML, CSS, JavaScript e ReactJs, React e Node. Faço uso de ferramentas essenciais como Visual Studio Code, Git e GitHub para desenvolver projetos, destacando minha habilidade técnica e comprometimento com a excelência.
+   </p>
+</div>
 <br>
- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
- <br>
- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
- <br>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo">
+<h2 class="heading-element" dir="auto">
+  <p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Tecnologias :eyes:
+</font></font></p></h2>
 
-
-
-[![Igor Stats](https://github-readme-stats.vercel.app/api?username=igorsctt)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center" dir="auto">
+  <code> <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img height="50"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;"></a> </code>
+  <code> <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img height="50"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;"></a> </code>
+  <code> <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img height="50"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;"></a> </code>
+  <code> <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><img height="50"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width: 100%;"></a> </code>
+  <code> <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"><img height="50"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="max-width: 100%;"></a> </code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow"             href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img height="50"    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow"    href="https://camo.githubusercontent.com/b943e77d13421b90975fa40548a612d67f10678db82a5e940c4fed2c2f941084/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f4769745f69636f6e2e7376672f3130323470782d4769745f69636f6e2e7376672e706e67"><img height="50" src="https://camo.githubusercontent.com/b943e77d13421b90975fa40548a612d67f10678db82a5e940c4fed2c2f941084/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f4769745f69636f6e2e7376672f3130323470782d4769745f69636f6e2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d670117ce7b530ad13ab05dc5f3e3aa88322101450f742ba8eb0e6a0f9438e1f/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f32313764356561302d363233642d343062312d396233312d3032376239303461356631352f64646a726777772d38343663653432392d336230642d346164382d626636642d6163353264666534383230312e706e673f746f6b656e3d65794a30655841694f694a4b563151694c434a68624763694f694a49557a49314e694a392e65794a7a645749694f694a31636d3436595842774f6a646c4d4751784f4467354f4449794e6a517a4e7a4e684e5759775a4451784e5756684d4751794e6d55774969776961584e7a496a6f6964584a754f6d467763446f335a54426b4d5467344f5467794d6a59304d7a637a5954566d4d4751304d54566c5954426b4d6a5a6c4d434973496d39696169493657317437496e4268644767694f694a634c325a634c7a49784e3251315a5745774c5459794d3251744e4442694d533035596a4d784c5441794e3249354d4452684e5759784e5677765a475271636d6433647930344e445a6a5a5451794f53307a596a426b4c5452685a446774596d59325a433168597a55795a475a6c4e4467794d4445756347356e496e3164585377695958566b496a7062496e5679626a707a5a584a3261574e6c4f6d5a70624755755a473933626d7876595751695858302e4730534536344f4d4c4e4547493876586232314a526c3133524d664552315650384b68324967336f4a6151"><img height="50" src="https://camo.githubusercontent.com/d670117ce7b530ad13ab05dc5f3e3aa88322101450f742ba8eb0e6a0f9438e1f/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f32313764356561302d363233642d343062312d396233312d3032376239303461356631352f64646a726777772d38343663653432392d336230642d346164382d626636642d6163353264666534383230312e706e673f746f6b656e3d65794a30655841694f694a4b563151694c434a68624763694f694a49557a49314e694a392e65794a7a645749694f694a31636d3436595842774f6a646c4d4751784f4467354f4449794e6a517a4e7a4e684e5759775a4451784e5756684d4751794e6d55774969776961584e7a496a6f6964584a754f6d467763446f335a54426b4d5467344f5467794d6a59304d7a637a5954566d4d4751304d54566c5954426b4d6a5a6c4d434973496d39696169493657317437496e4268644767694f694a634c325a634c7a49784e3251315a5745774c5459794d3251744e4442694d533035596a4d784c5441794e3249354d4452684e5759784e5677765a475271636d6433647930344e445a6a5a5451794f53307a596a426b4c5452685a446774596d59325a433168597a55795a475a6c4e4467794d4445756347356e496e3164585377695958566b496a7062496e5679626a707a5a584a3261574e6c4f6d5a70624755755a473933626d7876595751695858302e4730534536344f4d4c4e4547493876586232314a526c3133524d664552315650384b68324967336f4a6151" data-canonical-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGRqcmd3dy04NDZjZTQyOS0zYjBkLTRhZDgtYmY2ZC1hYzUyZGZlNDgyMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G0SE64OMLNEGI8vXb21JRl13RMfER1VP8Kh2Ig3oJaQ" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/426149e077311e1b8fc488846d6d575d6cdcd180e733ce4ff11a91147e5e60f7/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6669676d612d3638323038332e706e67"><img height="50" src="https://camo.githubusercontent.com/426149e077311e1b8fc488846d6d575d6cdcd180e733ce4ff11a91147e5e60f7/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6669676d612d3638323038332e706e67" data-canonical-src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png" style="max-width: 100%;"></a></code>
+  </p>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsctt)](https://github.com/anuraghazra/github-readme-stats)
+  <h2 class="heading-element" dir="auto">
+  <p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Redes :computer:
+</font></font></p></h2>
+<div align="center" dir="auto">
+
+<a href="https://www.linkedin.com/in/igorscott/" rel="nofollow"><img src="https://camo.githubusercontent.com/1fb28218088b45b065a7445cafa9d5f027a657f17cb4f8b3a9472b1f59952949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://github.com/igorsctt"><img src="https://camo.githubusercontent.com/363f191041493e207bb932fea42458b5b5e798bdbe73d1bad7f66b629577845a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:igor.ss2020@hotmail.com"><img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://bit.ly/igorscot"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="max-width: 100%;"></a>
+  
+</div>
+
+<br>
+
+<h2 class="heading-element" dir="auto">
+  <p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 📊 Estatísticas do GitHub 📉:
+</font></font></p></h2>
+
+[![Igor Stats](https://github-readme-stats.vercel.app/api?username=igorsctt)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsctt)](https://github.com/anuraghazra/github-readme-stats)
